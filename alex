@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Alex Popov</title>
+  </head>
+<body>
+  <div style="background-color: black;">
+    <h1 style="color:Tomato;">Alex Popov</h1>
+    <h2 style="color:Tomato;"><p>Hobbies and pets: reading books, watching 
+           films, cat</p></h2>
+    <h2 style="color:Tomato;"><p>Favorite things: Harry Potter, sushi or pizza, 
+           Kyiv</p></h2>
+  </div>
+</body>
+</html>

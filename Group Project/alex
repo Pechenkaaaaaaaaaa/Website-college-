@@ -10,6 +10,7 @@
            films, cat</p></h2>
     <h2 style="color:Tomato;"><p>Favorite things: Harry Potter, sushi or pizza, 
            Kyiv</p></h2>
+    <img src="Book.jpg">
   </div>
 </body>
 </html>

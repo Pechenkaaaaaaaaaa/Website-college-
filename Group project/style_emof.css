@@ -1,0 +1,21 @@
+/*This is main style file*/
+
+/*colour sheme
+Background: #ecf5fb (Light blue-gray)
+Headings: #1565c0 (Dark blue)
+Paragraph: #2196f3 (Medium blue)
+Text: #333333 (Dark gray)
+Accent: #03a9f4 (Sky blue)*/
+
+.bg-light{
+  background-color:#ecf5fb;
+}
+h1, h2{
+  color:#1565c0;
+}
+p{
+  color:#2196f3;
+}
+a{
+  text-decoration: none;
+}

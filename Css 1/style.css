@@ -1,0 +1,19 @@
+/*This is main style file*/
+
+/*colour sheme
+Background: Light #f5f5f5
+Headings: Dark blue #33475b
+Paragraph: Charcoal gray #555555
+Text: Black #000000
+Accent: Teal #008080*/
+
+
+.bg-white{
+  background-color:#f5f5f5;
+}
+h1{
+  color:#33475b;
+}
+p{
+  color:#555555;
+}

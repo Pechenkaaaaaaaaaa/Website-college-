@@ -1,0 +1,21 @@
+/*This is main style file*/
+
+/*colour sheme
+Background: #f8e0e0 (Light red-pink)
+Headings: #c62828 (Dark red)
+Paragraph: #e57373 (Medium red)
+Text: #333333 (Dark gray)
+Accent: #ff5252 (Coral red)*/
+
+.bg-light{
+  background-color:#f8e0e0;
+}
+h1, h2{
+  color:#c62828;
+}
+p{
+  color:#e57373;
+}
+a{
+  text-decoration: none;
+}

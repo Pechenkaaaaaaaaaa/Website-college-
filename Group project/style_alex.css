@@ -1,0 +1,22 @@
+/*This is main style file*/
+
+/*colour sheme
+Background: #1a1a1a (Dark gray/black)
+Headings: #ffffff (White)
+Paragraph: #757575 (Light gray)
+Text: #cccccc (Medium gray)
+Accent: #ff4500 (Orange-red)
+*/
+
+.bg-light{
+  background-color:#1a1a1a;
+}
+h1, h2{
+  color:#ffffff;
+}
+p{
+  color:#757575;
+}
+a{
+  text-decoration: none;
+}

@@ -38,7 +38,17 @@ padding:3px;
 font-weight: bold;
 }
 
-img {
-  border: 3px solid #8ea2c6;
-  border-radius: 100px;
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 10px;
+  text-align: centre;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
 }

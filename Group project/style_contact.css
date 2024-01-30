@@ -42,3 +42,7 @@ img {
   border: 3px solid #8ea2c6;
   border-radius: 100px;
 }
+
+table {
+  background-color: white;
+}

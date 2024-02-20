@@ -9,7 +9,12 @@ Accent: Teal #008080*/
 
 
 .bg-light{
-  background-color:#ffffff;
+  background-color:#f5f5f5;
+  padding: 50px;
+}
+.bg-teal{
+  background-color:#008080;
+  padding: 50px;
 }
 h1, h2{
   color:#33475b;

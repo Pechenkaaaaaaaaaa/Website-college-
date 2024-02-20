@@ -1,0 +1,16 @@
+.column-circle {
+  float: left;
+  width: 25%;
+  padding: 20px;
+  text-align: center;
+}
+.column-circle img{
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+}
+
+img{
+  height: 100px;
+  weidth: 100px;
+}

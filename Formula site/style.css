@@ -11,6 +11,56 @@
 }
 
 img{
-  height: 100px;
-  weidth: 100px;
+  height: 200px;
+  width: 200px;
+  
 }
+
+h1{
+  text-align: center;
+  color: #262626;
+  font-family: "Copperplate", "Courier New", monospace;
+}
+
+p{
+  text-align: center;
+  color: #595959;
+  font-family: "Copperplate", "Courier New", monospace;
+}
+
+.bg-f{
+  background-color: #F2F2F2;
+  padding: 20px;
+  text-align: center;
+}
+
+
+nav {
+background-color: #8C8C8C;
+display:block;
+overflow:hidden;
+width:100%;}
+
+nav ul il {
+display:inline-block;
+list-style-type: none;}
+
+nav ul il a{
+color:#000;
+display: block;
+line-height:36px;
+text-decoration: none;
+padding:5px;
+font-weight: bold;
+}
+
+.hover-effect:hover {
+  background-color:black;
+  color:white;
+}
+
+a{
+  text-decoration: none;
+  color: #262626;
+}
+

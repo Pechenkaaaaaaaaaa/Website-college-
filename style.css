@@ -1,19 +1,6 @@
-.column-circle {
-  float: left;
-  width: 25%;
-  padding: 20px;
-  text-align: center;
-}
-.column-circle img{
-  width: 200px;
-  height: 200px;
-  border-radius: 200px;
-}
-
 img{
   height: 200px;
   width: 200px;
-  
 }
 
 h1{
@@ -27,6 +14,7 @@ p{
   color: #595959;
   font-family: "Copperplate", "Courier New", monospace;
 }
+
 
 .bg-f{
   background-color: #F2F2F2;
@@ -63,4 +51,3 @@ a{
   text-decoration: none;
   color: #262626;
 }
-

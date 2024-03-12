@@ -2,6 +2,11 @@ img{
   height: 200px;
   width: 200px;
 }
+.logo{
+  height: 20px;
+  width: 20px;
+  float: right;
+}
 
 h1{
   text-align: center;
@@ -42,6 +47,10 @@ padding:5px;
 font-weight: bold;
 }
 
+ul li{
+  text-align: left;
+}
+
 .hover-effect:hover {
   background-color:black;
   color:white;
@@ -49,5 +58,19 @@ font-weight: bold;
 
 a{
   text-decoration: none;
-  color: #262626;
+  color: #7a7575;
 }
+    
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+
+table td{
+  border: 1px solid #262626;
+  padding: 10px;
+  text-align: left;
+}
+
+
+

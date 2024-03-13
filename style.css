@@ -73,4 +73,11 @@ table td{
 }
 
 
+.position-table{
+    float: right;
+}
 
+.size{
+  height: 400px;
+  width: 300px;
+}

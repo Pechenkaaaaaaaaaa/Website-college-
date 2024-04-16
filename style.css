@@ -1,0 +1,122 @@
+nav {
+  position: absolute;
+  background-color: #1A1A1A;
+  width: 1920px;
+  height: 81px;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 1089px;
+}
+
+nav ul il {
+display:inline-block;
+list-style-type: none;}
+
+nav ul il a{
+color:#000;
+display: block;
+line-height:36px;
+text-decoration: none;
+padding:5px;
+font-weight: bold;
+}
+
+ul li{
+  text-align: left;
+}
+
+.all-h{
+  color: #FFD700;
+}
+
+.all-s{
+  color: #FFD700;
+}
+
+.all-cu{
+  color: #FFD700;
+}
+
+.all-t{
+  color: #CCCCCC;
+}
+
+.bg-f{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+}
+
+.homep-h1{
+  position: absolute;
+  width: 1375px;
+  height: 85px;
+  left: 822px;
+  right: 273px;
+  top: 81px;
+  bottom: 914px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.homep-p1{
+  position: absolute;
+  width: 1292px;
+  height: 68px;
+  left: 884px;
+  right: 314px;
+  top: 136px;
+  bottom: 966px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.homep-p2{
+  position: absolute;
+  width: 1825px;
+  height: 132px;
+  left: 35px;
+  right: 40px;
+  top: 174px;
+  bottom: 744px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.homep-img{
+  position: absolute;
+  width: 200px;
+  height: 81px;
+  left: 0;
+  right: 1720px;
+  top: 0;
+  bottom: 0;
+}

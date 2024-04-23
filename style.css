@@ -28,19 +28,46 @@ ul li{
 
 .all-h{
   color: #FFD700;
+  position: absolute;
+  width: 94px;
+  height: 81px;
+  left: 235px;
+  right: 1591px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 .all-s{
   color: #FFD700;
+  position: absolute;
+  width: 112px;
+  height: 81px;
+  left: 366px;
+  right: 1442px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 .all-cu{
   color: #FFD700;
+  position: absolute;
+  width: 161px;
+  height: 81px;
+  left: 515px;
+  right: 1244px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
-.all-t{
-  color: #CCCCCC;
-}
 
 .bg-f{
   background-color: #222222;
@@ -102,6 +129,7 @@ ul li{
   display: flex;
   flex-direction: row;
   align-items: center;
+  
   color: rgb(153, 153, 153);
   font-family: Montserrat;
   font-size: 28px;
@@ -111,7 +139,7 @@ ul li{
   text-align: center;
 }
 
-.homep-img{
+.logo-img{
   position: absolute;
   width: 200px;
   height: 81px;
@@ -119,4 +147,232 @@ ul li{
   right: 1720px;
   top: 0;
   bottom: 0;
+}
+
+.hp-1{
+  position: absolute;
+  width: 481px;
+  height: 283px;
+  left: 39px;
+  right: 1400px;
+  top: -700px;
+  bottom: 427px;
+}
+
+.hp-2{
+  position: absolute;
+  width: 712px;
+  height: 505px;
+  left: 536px;
+  right: 672px;
+  top: -700px;
+  bottom: 205px;
+}
+
+.hp-3{
+  position: absolute;
+  width: 601px;
+  height: 569px;
+  left: 1279px;
+  right: 40px;
+  top: -700px;
+  bottom: 141px;
+}
+
+.hp-4{
+  position: absolute;
+  width: 481px;
+  height: 641px;
+  left: 39px;
+  right: 1400px;
+  top: -400px;
+  bottom: -226px;
+}
+
+.hp-5{
+  position: absolute;
+  width: 712px;
+  height: 415px;
+  left: 536px;
+  right: 672px;
+  top: -175px;
+  bottom: -226px;
+}
+
+.hp-6{
+  position: absolute;
+  width: 601px;
+  height: 336px;
+  left: 1279px;
+  right: 40px;
+  top: -100px;
+  bottom: -226px;
+}
+
+.rectangle1{
+  position: absolute;
+  width: 393px;
+  height: 81px;
+  left: 85px;
+  right: 1442px;
+  top: 110px;
+  bottom: 985px;
+  background: rgb(53, 53, 53);
+}
+
+.rectangle2{
+  position: absolute;
+  width: 387px;
+  height: 81px;
+  left: 540px;
+  right: 993px;
+  top: 110px;
+  bottom: 979px;
+  background: rgb(53, 53, 53);
+}
+
+.rectangle3{
+  position: absolute;
+  width: 388px;
+  height: 81px;
+  left: 988px;
+  right: 544px;
+  top: 110px;
+  bottom: 979px;
+  background: rgb(53, 53, 53);
+}
+
+.rectangle4{
+  position: absolute;
+  width: 399px;
+  height: 81px;
+  left: 1436px;
+  right: 85px;
+  top: 110px;
+  bottom: 979px;
+  background: rgb(53, 53, 53);
+}
+
+.g-r{
+  color: #FFD700;
+  position: absolute;
+  width: 228px;
+  height: 34px;
+  left: 120px;
+  right: 1529px;
+  top: 0px;
+  bottom: 1002px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: right;
+}
+
+.e-r{
+  color: #FFD700;
+  position: absolute;
+  width: 241px;
+  height: 34px;
+  left: 120px;
+  right: 1068px;
+  top: 0px;
+  bottom: 1002px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.a-r{
+  color: #FFD700;
+  position: absolute;
+  width: 230px;
+  height: 34px;
+  left: 120px;
+  right: 634px;
+  top: 0px;
+  bottom: 996px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.d-r{
+  color: #FFD700;
+  position: absolute;
+  width: 205px;
+  height: 34px;
+  left: 140px;
+  right: 181px;
+  top: 0px;
+  bottom: 1003px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.glasgow-room{
+  position: absolute;
+  width: 394px;
+  height: 850px;
+  left: 84px;
+  right: 1442px;
+  top: 191px;
+  bottom: 44px;
+}
+
+.edinburgh-room{
+  position: absolute;
+  width: 387px;
+  height: 850px;
+  left: 540px;
+  right: 993px;
+  top: 191px;
+  bottom: 44px;
+}
+
+.aberdeen-room{
+  position: absolute;
+  width: 388px;
+  height: 850px;
+  left: 988px;
+  right: 544px;
+  top: 191px;
+  bottom: 44px;
+}
+
+.dundee-room{
+  position: absolute;
+  width: 399px;
+  height: 850px;
+  left: 1436px;
+  right: 85px;
+  top: 191px;
+  bottom: 44px;
 }

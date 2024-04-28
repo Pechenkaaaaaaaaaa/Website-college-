@@ -480,3 +480,71 @@ ul li{
   letter-spacing: -1.5%;
   text-align: center;
 }
+
+.explan-gls{
+  position: absolute;
+  width: 1770px;
+  height: 355px;
+  left: 21px;
+  right: 129px;
+  top: 790px;
+  bottom: 2855px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.h1-prop-gls{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 15px;
+  right: 1389px;
+  top: 1145px;
+  bottom: 2781px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(125, 101, 93);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.nearb-gls{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 21px;
+  right: 1383px;
+  top: 1230px;
+  bottom: 2696px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;  
+}
+
+.nearb-gls-txt{
+  
+}
+

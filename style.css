@@ -1,3 +1,5 @@
+/* Main Page */
+
 nav {
   position: absolute;
   background-color: #1A1A1A;
@@ -26,7 +28,24 @@ ul li{
   text-align: left;
 }
 
-.all-h{
+.background-font{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+}
+
+.logo-img{
+  position: absolute;
+  width: 200px;
+  height: 81px;
+  left: 0;
+  right: 1720px;
+  top: 0;
+  bottom: 0;
+}
+
+.all-home-nav{
   color: #FFD700;
   position: absolute;
   width: 94px;
@@ -40,7 +59,7 @@ ul li{
   align-items: center;
 }
 
-.all-s{
+.all-service-nav{
   color: #FFD700;
   position: absolute;
   width: 112px;
@@ -54,7 +73,7 @@ ul li{
   align-items: center;
 }
 
-.all-cu{
+.all-contact-us-nav{
   color: #FFD700;
   position: absolute;
   width: 161px;
@@ -68,15 +87,7 @@ ul li{
   align-items: center;
 }
 
-
-.bg-f{
-  background-color: #222222;
-  position: relative;
-  width: 1920px;
-  height: 1080px;
-}
-
-.homep-h1{
+.home-page-h1{
   position: absolute;
   width: 1375px;
   height: 85px;
@@ -97,7 +108,7 @@ ul li{
   text-align: center;
 }
 
-.homep-p1{
+.home-page-p1{
   position: absolute;
   width: 1292px;
   height: 68px;
@@ -118,7 +129,7 @@ ul li{
   text-align: center;
 }
 
-.homep-p2{
+.home-page-p2{
   position: absolute;
   width: 1825px;
   height: 132px;
@@ -139,17 +150,7 @@ ul li{
   text-align: center;
 }
 
-.logo-img{
-  position: absolute;
-  width: 200px;
-  height: 81px;
-  left: 0;
-  right: 1720px;
-  top: 0;
-  bottom: 0;
-}
-
-.hp-1{
+.hp-pic-1{
   position: absolute;
   width: 481px;
   height: 283px;
@@ -159,7 +160,7 @@ ul li{
   bottom: 427px;
 }
 
-.hp-2{
+.hp-pic-2{
   position: absolute;
   width: 712px;
   height: 505px;
@@ -169,7 +170,7 @@ ul li{
   bottom: 205px;
 }
 
-.hp-3{
+.hp-pic-3{
   position: absolute;
   width: 601px;
   height: 569px;
@@ -179,7 +180,7 @@ ul li{
   bottom: 141px;
 }
 
-.hp-4{
+.hp-pic-4{
   position: absolute;
   width: 481px;
   height: 641px;
@@ -189,7 +190,7 @@ ul li{
   bottom: -226px;
 }
 
-.hp-5{
+.hp-pic-5{
   position: absolute;
   width: 712px;
   height: 415px;
@@ -199,7 +200,7 @@ ul li{
   bottom: -226px;
 }
 
-.hp-6{
+.hp-pic-6{
   position: absolute;
   width: 601px;
   height: 336px;
@@ -208,6 +209,8 @@ ul li{
   top: -100px;
   bottom: -226px;
 }
+
+/*Service Page*/
 
 .rectangle1{
   position: absolute;
@@ -220,40 +223,7 @@ ul li{
   background: rgb(53, 53, 53);
 }
 
-.rectangle2{
-  position: absolute;
-  width: 387px;
-  height: 81px;
-  left: 540px;
-  right: 993px;
-  top: 110px;
-  bottom: 979px;
-  background: rgb(53, 53, 53);
-}
-
-.rectangle3{
-  position: absolute;
-  width: 388px;
-  height: 81px;
-  left: 988px;
-  right: 544px;
-  top: 110px;
-  bottom: 979px;
-  background: rgb(53, 53, 53);
-}
-
-.rectangle4{
-  position: absolute;
-  width: 399px;
-  height: 81px;
-  left: 1436px;
-  right: 85px;
-  top: 110px;
-  bottom: 979px;
-  background: rgb(53, 53, 53);
-}
-
-.g-r{
+.glas-room-heading{
   color: #FFD700;
   position: absolute;
   width: 228px;
@@ -274,7 +244,18 @@ ul li{
   text-align: right;
 }
 
-.e-r{
+.rectangle2{
+  position: absolute;
+  width: 387px;
+  height: 81px;
+  left: 540px;
+  right: 993px;
+  top: 110px;
+  bottom: 979px;
+  background: rgb(53, 53, 53);
+}
+
+.edin-room-heading{
   color: #FFD700;
   position: absolute;
   width: 241px;
@@ -295,7 +276,18 @@ ul li{
   text-align: center;
 }
 
-.a-r{
+.rectangle3{
+  position: absolute;
+  width: 388px;
+  height: 81px;
+  left: 988px;
+  right: 544px;
+  top: 110px;
+  bottom: 979px;
+  background: rgb(53, 53, 53);
+}
+
+.aber-room-heading{
   color: #FFD700;
   position: absolute;
   width: 230px;
@@ -316,7 +308,18 @@ ul li{
   text-align: center;
 }
 
-.d-r{
+.rectangle4{
+  position: absolute;
+  width: 399px;
+  height: 81px;
+  left: 1436px;
+  right: 85px;
+  top: 110px;
+  bottom: 979px;
+  background: rgb(53, 53, 53);
+}
+
+.dund-room-heading{
   color: #FFD700;
   position: absolute;
   width: 205px;
@@ -337,7 +340,7 @@ ul li{
   text-align: center;
 }
 
-.glasgow-room{
+.glas-room-pic{
   position: absolute;
   width: 394px;
   height: 850px;
@@ -347,7 +350,7 @@ ul li{
   bottom: 44px;
 }
 
-.edinburgh-room{
+.edin-room-pic{
   position: absolute;
   width: 387px;
   height: 850px;
@@ -357,7 +360,7 @@ ul li{
   bottom: 44px;
 }
 
-.aberdeen-room{
+.aber-room-pic{
   position: absolute;
   width: 388px;
   height: 850px;
@@ -367,7 +370,7 @@ ul li{
   bottom: 44px;
 }
 
-.dundee-room{
+.dund-room-pic{
   position: absolute;
   width: 399px;
   height: 850px;
@@ -376,6 +379,8 @@ ul li{
   top: 191px;
   bottom: 44px;
 }
+
+/*Glasgow Room Page*/
 
 .rectangle5{
   position: absolute;
@@ -388,7 +393,7 @@ ul li{
   background: rgb(53, 53, 53);
 }
 
-.g-r-p{
+.glas-room-p-heading{
   color: #FFD700;
   position: absolute;
   width: 569px;
@@ -409,7 +414,7 @@ ul li{
   text-align: center;
 }
 
-.gls-rmp{
+.gls-rmp-pic{
   position: absolute;
   width: 533px;
   height: 316px;
@@ -419,7 +424,7 @@ ul li{
   bottom: 3580px;
 }
 
-.gls-rmp1{
+.gls-rmp1-pic{
   position: absolute;
   width: 511px;
   height: 316px;
@@ -429,7 +434,7 @@ ul li{
   bottom: 3580px;
 }
 
-.gls-rmp2{
+.gls-rmp2-pic{
   position: absolute;
   width: 627px;
   height: 325px;
@@ -439,7 +444,7 @@ ul li{
   bottom: 3244px;
 }
 
-.gls-rmp3{
+.gls-rmp3-pic{
   position: absolute;
   width: 417px;
   height: 325px;
@@ -460,7 +465,7 @@ ul li{
   background: rgba(217, 217, 217, 0.7);
 }
 
-.mr-ph{
+.more-photos{
   position: absolute;
   width: 333px;
   height: 132px;
@@ -481,7 +486,7 @@ ul li{
   text-align: center;
 }
 
-.explan-gls{
+.explan-gls-room{
   position: absolute;
   width: 1770px;
   height: 355px;
@@ -502,7 +507,9 @@ ul li{
   text-align: left;
 }
 
-.h1-prop-gls{
+/*----------------  Part about atractions and Fasilities ---------------------*/
+
+.prop-gls{
   position: absolute;
   width: 516px;
   height: 74px;
@@ -544,7 +551,6 @@ ul li{
   text-align: left;  
 }
 
-.nearb-gls-txt{
-  
-}
+/*Edinburgh Room Page*/
+
 

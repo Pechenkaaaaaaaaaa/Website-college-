@@ -26,9 +26,11 @@ a{
   text-decoration: none;
 }
 nav {
-background-color: #EBE8E4; /*background colour of your choice/ border:1px solid #dedede; /*border around the nav menu/ color:#ffffff; /*font colour*/ display:block;
+background-color: #EBE8E4; 
+display:block;
 overflow:hidden;
-width:100%;}
+width:100%;
+}
 
 nav ul il {
 display:inline-block;

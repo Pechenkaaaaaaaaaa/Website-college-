@@ -63,6 +63,20 @@ ul li{
   height: 2430px;
 }
 
+.background-font-edinburgh{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 2700px;
+}
+
+.background-font-edinburghalbum{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 300px;
+}
+
 .logo-img{
   position: absolute;
   width: 200px;
@@ -2038,4 +2052,990 @@ text-align: left;
   line-height: 29px;
   letter-spacing: -1.5%;
   text-align: left;
+}
+
+.facilities-edin{
+  position: absolute;
+  width: 573px;
+  height: 73px;
+  left: 21px;
+  right: 1326px;
+  top: 1750px;
+  bottom: 1927px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(125, 101, 93);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.parking-edin{
+  position: absolute;
+  width: 196px;
+  height: 51px;
+  left: 21px;
+  right: 1703px;
+  top: 1830px;
+  bottom: 1873px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.parking-edin-txt{
+  position: absolute;
+  width: 573px;
+  height: 73px;
+  left: 23px;
+  right: 1324px;
+  top: 1855px;
+  bottom: 1802px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.internet-edin{
+  position: absolute;
+  width: 435px;
+  height: 55px;
+  left: 23px;
+  right: 1462px;
+  top: 1910px;
+  bottom: 1758px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.internet-edin-txt{
+  position: absolute;
+  width: 575px;
+  height: 55px;
+  left: 23px;
+  right: 1324px;
+  top: 1945px;
+  bottom: 1712px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.kitchen-edin{
+  position: absolute;
+  width: 386px;
+  height: 50px;
+  left: 20px;
+  right: 1516px;
+  top: 1995px;
+  bottom: 1647px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.kitchen-edin-txt{
+  position: absolute;
+  width: 284px;
+  height: 293px;
+  left: -13px;
+  right: 1615px;
+  top: 1995px;
+  bottom: 1362px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.bedroom-edin{
+  position: absolute;
+  width: 283px;
+  height: 64px;
+  left: 20px;
+  right: 1622px;
+  top: 2220px;
+  bottom: 1305px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.bedroom-edin-txt{
+  position: absolute;
+  width: 568px;
+  height: 81px;
+  left: -15px;
+  right: 1334px;
+  top: 2280px;
+  bottom: 1225px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.access-edin{
+  position: absolute;
+  width: 346px;
+  height: 61px;
+  left: 20px;
+  right: 1551px;
+  top: 2330px;
+  bottom: 1121px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.access-edin-txt{
+  position: absolute;
+  width: 547px;
+  height: 55px;
+  left: 20px;
+  right: 1355px;
+  top: 2370px;
+  bottom: 1066px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.reception-edin{
+  position: absolute;
+  width: 381px;
+  height: 73px;
+  left: 15px;
+  right: 1524px;
+  top: 2410px;
+  bottom: 958px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.reception-edin-txt{
+  position: absolute;
+  width: 573px;
+  height: 105px;
+  left: -20px;
+  right: 1332px;
+  top: 2460px;
+  bottom: 862px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.bathroom-edin{
+  position: absolute;
+  width: 255px;
+  height: 85px;
+  left: 625px;
+  right: 1040px;
+  top: 1820px;
+  bottom: 1873px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.bathroom-edin-txt{
+  position: absolute;
+  width: 297px;
+  height: 355px;
+  left: 590px;
+  right: 996px;
+  top: 1825px;
+  bottom: 1535px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.media-edin{
+  position: absolute;
+  width: 420px;
+  height: 64px;
+  left: 623px;
+  right: 872px;
+  top: 2098px;
+  bottom: 1468px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.media-edin-txt{
+  position: absolute;
+  width: 569px;
+  height: 86px;
+  left: 590px;
+  right: 729px;
+  top: 2155px;
+  bottom: 1379px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.living-edin{
+  position: absolute;
+  width: 390px;
+  height: 46px;
+  left: 625px;
+  right: 922px;
+  top: 2230px;
+  bottom: 1320px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.living-edin-txt{
+  position: absolute;
+  width: 572px;
+  height: 137px;
+  left: 590px;
+  right: 740px;
+  top: 2265px;
+  bottom: 1173px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.food-edin{
+  position: absolute;
+  width: 397px;
+  height: 55px;
+  left: 625px;
+  right: 933px;
+  top: 2365px;
+  bottom: 1074px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.food-edin-txt{
+  position: absolute;
+  width: 569px;
+  height: 71px;
+  left: 625px;
+  right: 754px;
+  top: 2395px;
+  bottom: 1014px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.amenties-edin{
+  position: absolute;
+  width: 525px;
+  height: 53px;
+  left: 1186px;
+  right: 209px;
+  top: 1830px;
+  bottom: 1871px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left
+}
+
+.amenties-edin-txt{
+  position: absolute;
+  width: 613px;
+  height: 183px;
+  left: 1165px;
+  right: 116px;
+  top: 1860px;
+  bottom: 1688px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.outdoors-edin{
+  position: absolute;
+  width: 482px;
+  height: 58px;
+  left: 1187px;
+  right: 257px;
+  top: 2000px;
+  bottom: 1614px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.outdoors-edin-txt{
+  position: absolute;
+  width: 573px;
+  height: 53px;
+  left: 1155px;
+  right: 167px;
+  top: 2055px;
+  bottom: 1561px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.reception-serv-edin{
+  position: absolute;
+  width: 440px;
+  height: 58px;
+  left: 1185px;
+  right: 307px;
+  top: 2100px;
+  bottom: 1487px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.reception-serv-edin-txt{
+  position: absolute;
+  width: 333px;
+  height: 56px;
+  left: 1155px;
+  right: 413px;
+  top: 2155px;
+  bottom: 1431px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.misc-edin{
+  position: absolute;
+  width: 438px;
+  height: 58px;
+  left: 1190px;
+  right: 316px;
+  top: 2205px;
+  bottom: 1337px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.misc-edin-txt{
+  position: absolute;
+  width: 585px;
+  height: 96px;
+  left: 1155px;
+  right: 167px;
+  top: 2257px;
+  bottom: 1247px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.lang-edin{
+  position: absolute;
+  width: 356px;
+  height: 65px;
+  left: 1190px;
+  right: 396px;
+  top: 2330px;
+  bottom: 1151px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.lang-edin-txt{
+  position: absolute;
+  width: 573px;
+  height: 73px;
+  left: 1160px;
+  right: 179px;
+  top: 2375px;
+  bottom: 1093px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.charac-edin{
+  position: absolute;
+  width: 482px;
+  height: 58px;
+  left: 1185px;
+  right: 265px;
+  top: 2420px;
+  bottom: 988px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.charac-edin-txt{
+  position: absolute;
+  width: 573px;
+  height: 58px;
+  left: 1150px;
+  right: 179px;
+  top: 2475px;
+  bottom: 938px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.security-edin{
+  position: absolute;
+  width: 512px;
+  height: 69px;
+  left: 1190px;
+  right: 233px;
+  top: 2500px;
+  bottom: 842px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.security-edin-txt{
+  position: absolute;
+  width: 593px;
+  height: 155px;
+  left: 1160px;
+  right: 161px;
+  top: 2540px;
+  bottom: 687px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+/*---------------------------Edinburgh Album----------------------------*/
+.edin-alb-1{
+  position: absolute;
+  width: 620px;
+  height: 325px;
+  left: 1300px;
+  right: 0;
+  top: 2518px;
+  bottom: 1157px;
+}
+
+.edin-alb-2{
+  position: absolute;
+  width: 630px;
+  height: 410px;
+  left: 670px;
+  right: 620px;
+  top: 2384px;
+  bottom: 1206px;
+}
+
+.edin-alb-3{
+  position: absolute;
+  width: 620px;
+  height: 394px;
+  left: 1300px;
+  right: 0;
+  top: 2124px;
+  bottom: 1482px;
+}
+
+.edin-alb-4{
+  position: absolute;
+  width: 661px;
+  height: 364px;
+  left: 639px;
+  right: 620px;
+  top: 2020px;
+  bottom: 1616px;
+}
+
+.edin-alb-5{
+  position: absolute;
+  width: 630px;
+  height: 840px;
+  left: 0;
+  right: 1290px;
+  top: 1782px;
+  bottom: 1378px;
+}
+
+.edin-alb-6{
+  position: absolute;
+  width: 679px;
+  height: 482px;
+  left: 1241px;
+  right: 0;
+  top: 1642px;
+  bottom: 1876px;
+}
+
+.edin-alb-7{
+  position: absolute;
+  width: 612px;
+  height: 404px;
+  left: 629px;
+  right: 679px;
+  top: 1616px;
+  bottom: 1980px;
+}
+
+.edin-alb-8{
+  position: absolute;
+  width: 424px;
+  height: 349px;
+  left: 629px;
+  right: 867px;
+  top: 1267px;
+  bottom: 2384px;
+}
+
+.edin-alb-9{
+  position: absolute;
+  width: 630px;
+  height: 328px;
+  left: 0;
+  right: 1290px;
+  top: 32px;
+  bottom: 3640px;
+}
+
+.edin-alb-10{
+  position: absolute;
+  width: 625px;
+  height: 272px;
+  left: 8px;
+  right: 1287px;
+  top: 359px;
+  bottom: 3369px;
+}
+
+.edin-alb-11{
+  position: absolute;
+  width: 299px;
+  height: 272px;
+  left: 633px;
+  right: 988px;
+  top: 32px;
+  bottom: 3696px;
+}
+
+.edin-alb-12{
+  position: absolute;
+  width: 653px;
+  height: 446px;
+  left: 0;
+  right: 1267px;
+  top: 631px;
+  bottom: 2923px;
+}
+
+.edin-alb-13{
+  position: absolute;
+  width: 459px;
+  height: 1081px;
+  left: 1461px;
+  right: 0;
+  top: 110px;
+  bottom: 2809px;
+}
+
+.edin-alb-14{
+  position: absolute;
+  width: 433px;
+  height: 349px;
+  left: 630px;
+  right: 857px;
+  top: 308px;
+  bottom: 3343px;
+}
+
+.edin-alb-15{
+  position: absolute;
+  width: 424px;
+  height: 304px;
+  left: 639px;
+  right: 857px;
+  top: 657px;
+  bottom: 3039px;
+}
+
+.edin-alb-16{
+  position: absolute;
+  width: 423px;
+  height: 304px;
+  left: 630px;
+  right: 867px;
+  top: 961px;
+  bottom: 2735px;
+}
+
+.edin-alb-17{
+  position: absolute;
+  width: 248px;
+  height: 347px;
+  left: 382px;
+  right: 1290px;
+  top: 1070px;
+  bottom: 2583px;
+}
+
+.edin-alb-18{
+  position: absolute;
+  width: 245px;
+  height: 281px;
+  left: 1241px;
+  right: 434px;
+  top: 27px;
+  bottom: 3692px;
+}
+
+.edin-alb-19{
+  position: absolute;
+  width: 299px;
+  height: 276px;
+  left: 929px;
+  right: 692px;
+  top: 32px;
+  bottom: 3692px;
+}
+
+.edin-alb-20{
+  position: absolute;
+  width: 408px;
+  height: 883px;
+  left: 1053px;
+  right: 459px;
+  top: 308px;
+  bottom: 2809px;
+}
+
+.edin-alb-21{
+  position: absolute;
+  width: 867px;
+  height: 451px;
+  left: 1053px;
+  right: 0;
+  top: 1191px;
+  bottom: 2358px;
+}
+
+.edin-alb-22{
+  position: absolute;
+  width: 668px;
+  height: 426px;
+  left: -38px;
+  right: 1290px;
+  top: 1397px;
+  bottom: 2177px;
+}
+
+.edin-alb-23{
+  position: absolute;
+  width: 382px;
+  height: 304px;
+  left: 0;
+  right: 1538px;
+  top: 1093px;
+  bottom: 2603px;
+}
+
+.edin-alb-24{
+  position: absolute;
+  width: 1250px;
+  height: 434px;
+  left: 670px;
+  right: 0;
+  top: 2794px;
+  bottom: 772px;
+}
+
+.edin-alb-25{
+  position: absolute;
+  width: 670px;
+  height: 606px;
+  left: 0;
+  right: 1250px;
+  top: 2622px;
+  bottom: 772px;
 }

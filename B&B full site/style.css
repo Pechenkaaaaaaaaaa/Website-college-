@@ -3512,3 +3512,632 @@ text-align: left;
   text-align: left;
 }
 
+.parking-aberdeen{
+  position: absolute;
+  width: 528px;
+  height: 44px;
+  left: 22px;
+  right: 1370px;
+  top: 1780px;
+  bottom: 1773px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.parking-aberdeen-txt{
+  position: absolute;
+  width: 570px;
+  height: 73px;
+  left: -20px;
+  right: 1324px;
+  top: 1815px;
+  bottom: 1700px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.internet-aberdeen{
+  position: absolute;
+  width: 510px;
+  height: 47px;
+  left: 25px;
+  right: 1381px;
+  top: 1855px;
+  bottom: 1647px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.internet-aberdeen-txt{
+  position: absolute;
+  width: 570px;
+  height: 58px;
+  left: -10px;
+  right: 1324px;
+  top: 1905px;
+  bottom: 1581px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.kichen-aberdeen{
+  position: absolute;
+  width: 470px;
+  height: 58px;
+  left: 31px;
+  right: 1419px;
+  top: 1935px;
+  bottom: 1537px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.kichen-aberdee-txt{
+  position: absolute;
+  width: 496px;
+  height: 651px;
+  left: 26px;
+  right: 1398px;
+  top: 1890px;
+  bottom: 886px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.bedroom-aberdeen{
+  position: absolute;
+  width: 435px;
+  height: 50px;
+  left: 20px;
+  right: 1465px;
+  top: 3105px;
+  bottom: 845px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.bedroom-aberdeen-txt{
+  position: absolute;
+  width: 575px;
+  height: 83px;
+  left: 27px;
+  right: 1318px;
+  top: 3163px;
+  bottom: 754px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.access-aberdeen{
+  position: absolute;
+  width: 385px;
+  height: 73px;
+  left: 20px;
+  right: 1515px;
+  top: 3258px;
+  bottom: 669px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.access-aberdeen-txt{
+  position: absolute;
+  width: 577px;
+  height: 50px;
+  left: 20px;
+  right: 1323px;
+  top: 3327px;
+  bottom: 623px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.reception-serv-aberdeen{
+  position: absolute;
+  width: 388px;
+  height: 56px;
+  left: 22px;
+  right: 1510px;
+  top: 3404px;
+  bottom: 540px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.reception-serv-aberdeen-txt{
+  position: absolute;
+  width: 579px;
+  height: 83px;
+  left: 23px;
+  right: 1318px;
+  top: 3460px;
+  bottom: 457px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.media-aberdeen{
+  position: absolute;
+  width: 415px;
+  height: 73px;
+  left: 622px;
+  right: 883px;
+  top: 2183px;
+  bottom: 1744px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.media-aberdeen-txt{
+  position: absolute;
+  width: 530px;
+  height: 261px;
+  left: 614px;
+  right: 776px;
+  top: 2256px;
+  bottom: 1483px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.area-aberdeen{
+  position: absolute;
+  width: 415px;
+  height: 58px;
+  left: 611px;
+  right: 894px;
+  top: 2531px;
+  bottom: 1411px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.area-aberdeen-txt{
+  position: absolute;
+  width: 570px;
+  height: 169px;
+  left: 610px;
+  right: 740px;
+  top: 2594px;
+  bottom: 1237px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.food-aberdeen{
+  position: absolute;
+  width: 373px;
+  height: 68px;
+  left: 604px;
+  right: 943px;
+  top: 2772px;
+  bottom: 1160px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.food-aberdeen-txt{
+  position: absolute;
+  width: 528px;
+  height: 68px;
+  left: 603px;
+  right: 789px;
+  top: 2836px;
+  bottom: 1096px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.characterisitics-aberdeen{
+  position: absolute;
+  width: 529px;
+  height: 58px;
+  left: 596px;
+  right: 795px;
+  top: 2904px;
+  bottom: 1038px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.characterisitics-aberdeen-txt{
+  position: absolute;
+  width: 575px;
+  height: 59px;
+  left: 592px;
+  right: 753px;
+  top: 2970px;
+  bottom: 971px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.safety-aberdeen{
+  position: absolute;
+  width: 406px;
+  height: 59px;
+  left: 597px;
+  right: 917px;
+  top: 3015px;
+  bottom: 926px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.safety-aberdeen-txt{
+  position: absolute;
+  width: 575px;
+  height: 240px;
+  left: 603px;
+  right: 742px;
+  top: 3077px;
+  bottom: 683px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.amenties-aberdeen{
+  position: absolute;
+  width: 455px;
+  height: 58px;
+  left: 1213px;
+  right: 252px;
+  top: 2192px;
+  bottom: 1750px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.amenties-aberdeen-txt{
+  position: absolute;
+  width: 596px;
+  height: 304px;
+  left: 1209px;
+  right: 115px;
+  top: 2250px;
+  bottom: 1446px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.outdoors-aberdeen{
+  position: absolute;
+  width: 522px;
+  height: 59px;
+  left: 1213px;
+  right: 185px;
+  top: 2572px;
+  bottom: 1369px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.outdoors-aberdeen-txt{
+  position: absolute;
+  width: 575px;
+  height: 81px;
+  left: 1209px;
+  right: 136px;
+  top: 2623px;
+  bottom: 1296px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.miscell-aberdeen{
+  position: absolute;
+  width: 417px;
+  height: 66px;
+  left: 1205px;
+  right: 298px;
+  top: 2709px;
+  bottom: 1225px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.miscell-aberdeen-txt{
+  position: absolute;
+  width: 593px;
+  height: 183px;
+  left: 1201px;
+  right: 126px;
+  top: 2775px;
+  bottom: 1042px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.lang-aberdeen{
+  position: absolute;
+  width: 435px;
+  height: 66px;
+  left: 1199px;
+  right: 286px;
+  top: 2974px;
+  bottom: 960px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.lang-aberdeen_txt{
+  position: absolute;
+  width: 573px;
+  height: 73px;
+  left: 1203px;
+  right: 144px;
+  top: 3036px;
+  bottom: 891px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}

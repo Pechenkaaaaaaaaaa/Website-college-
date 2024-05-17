@@ -1,0 +1,3255 @@
+/* --------------------------------------------------------------------------------Main Page-------------------------------------------------------------------------------------------*/
+
+nav {
+  position: absolute;
+  background-color: #1A1A1A;
+  width: 1920px;
+  height: 81px;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 1089px;
+}
+
+nav ul il {
+display:inline-block;
+list-style-type: none;}
+
+nav ul il a{
+color:#000;
+display: block;
+line-height:36px;
+text-decoration: none;
+padding:5px;
+font-weight: bold;
+}
+
+ul li{
+  text-align: left;
+}
+
+.background-font-index{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+}
+
+.background-font-index-pic{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 250px;
+}
+
+.background-font-service{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+}
+
+.background-font-glasgowroom{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 1800px;
+}
+
+.background-font-glasgowalbum{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 2430px;
+}
+
+.background-font-edinburgh{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 1820px;
+}
+
+.background-font-edinburghalbum{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 300px;
+}
+
+.background-font-aberdeen{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 1800px;
+}
+
+.background-font-aberdeenalbum{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 2300px;
+}
+
+.background-font-dundee{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 1800px;
+}
+
+.background-font-dundeealbum{
+  background-color: #222222;
+  position: relative;
+  width: 1920px;
+  height: 1900px;
+}
+
+.logo-img{
+  position: absolute;
+  width: 200px;
+  height: 81px;
+  left: 0;
+  right: 1720px;
+  top: 0;
+  bottom: 0;
+}
+
+.all-home-nav{
+  color: #FFD700;
+  position: absolute;
+  width: 94px;
+  height: 81px;
+  left: 235px;
+  right: 1591px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.all-service-nav{
+  color: #FFD700;
+  position: absolute;
+  width: 112px;
+  height: 81px;
+  left: 366px;
+  right: 1442px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.all-contact-us-nav{
+  color: #FFD700;
+  position: absolute;
+  width: 161px;
+  height: 81px;
+  left: 515px;
+  right: 1244px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.home-page-h1{
+  position: absolute;
+  width: 1375px;
+  height: 85px;
+  left: 822px;
+  right: 273px;
+  top: 81px;
+  bottom: 914px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.home-page-p1{
+  position: absolute;
+  width: 1292px;
+  height: 68px;
+  left: 884px;
+  right: 314px;
+  top: 136px;
+  bottom: 966px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.home-page-p2{
+  position: absolute;
+  width: 1825px;
+  height: 132px;
+  left: 35px;
+  right: 40px;
+  top: 174px;
+  bottom: 744px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.hp-pic-1{
+  position: absolute;
+  width: 481px;
+  height: 283px;
+  left: 39px;
+  right: 1400px;
+  top: -700px;
+  bottom: 427px;
+}
+
+.hp-pic-2{
+  position: absolute;
+  width: 712px;
+  height: 505px;
+  left: 536px;
+  right: 672px;
+  top: -700px;
+  bottom: 205px;
+}
+
+.hp-pic-3{
+  position: absolute;
+  width: 601px;
+  height: 569px;
+  left: 1279px;
+  right: 40px;
+  top: -700px;
+  bottom: 141px;
+}
+
+.hp-pic-4{
+  position: absolute;
+  width: 481px;
+  height: 641px;
+  left: 39px;
+  right: 1400px;
+  top: -400px;
+  bottom: -226px;
+}
+
+.hp-pic-5{
+  position: absolute;
+  width: 712px;
+  height: 415px;
+  left: 536px;
+  right: 672px;
+  top: -175px;
+  bottom: -226px;
+}
+
+.hp-pic-6{
+  position: absolute;
+  width: 601px;
+  height: 336px;
+  left: 1279px;
+  right: 40px;
+  top: -100px;
+  bottom: -226px;
+}
+
+/*----------------------------------------------------------------------------------------Service Page---------------------------------------------------------------------------------*/
+
+.rectangle1{
+  position: absolute;
+  width: 393px;
+  height: 81px;
+  left: 85px;
+  right: 1442px;
+  top: 110px;
+  bottom: 985px;
+  background: rgb(53, 53, 53);
+}
+
+.glas-room-heading{
+  color: #FFD700;
+  position: absolute;
+  width: 228px;
+  height: 34px;
+  left: 120px;
+  right: 1529px;
+  top: 0px;
+  bottom: 1002px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: right;
+}
+
+.rectangle2{
+  position: absolute;
+  width: 387px;
+  height: 81px;
+  left: 540px;
+  right: 993px;
+  top: 110px;
+  bottom: 979px;
+  background: rgb(53, 53, 53);
+}
+
+.edin-room-heading{
+  color: #FFD700;
+  position: absolute;
+  width: 241px;
+  height: 34px;
+  left: 120px;
+  right: 1068px;
+  top: 0px;
+  bottom: 1002px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.rectangle3{
+  position: absolute;
+  width: 388px;
+  height: 81px;
+  left: 988px;
+  right: 544px;
+  top: 110px;
+  bottom: 979px;
+  background: rgb(53, 53, 53);
+}
+
+.aber-room-heading{
+  color: #FFD700;
+  position: absolute;
+  width: 230px;
+  height: 34px;
+  left: 120px;
+  right: 634px;
+  top: 0px;
+  bottom: 996px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.rectangle4{
+  position: absolute;
+  width: 399px;
+  height: 81px;
+  left: 1436px;
+  right: 85px;
+  top: 110px;
+  bottom: 979px;
+  background: rgb(53, 53, 53);
+}
+
+.dund-room-heading{
+  color: #FFD700;
+  position: absolute;
+  width: 205px;
+  height: 34px;
+  left: 140px;
+  right: 181px;
+  top: 0px;
+  bottom: 1003px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.glas-room-pic{
+  position: absolute;
+  width: 394px;
+  height: 850px;
+  left: 84px;
+  right: 1442px;
+  top: 191px;
+  bottom: 44px;
+}
+
+.edin-room-pic{
+  position: absolute;
+  width: 387px;
+  height: 850px;
+  left: 540px;
+  right: 993px;
+  top: 191px;
+  bottom: 44px;
+}
+
+.aber-room-pic{
+  position: absolute;
+  width: 388px;
+  height: 850px;
+  left: 988px;
+  right: 544px;
+  top: 191px;
+  bottom: 44px;
+}
+
+.dund-room-pic{
+  position: absolute;
+  width: 399px;
+  height: 850px;
+  left: 1436px;
+  right: 85px;
+  top: 191px;
+  bottom: 44px;
+}
+
+/*------------------------------------------------------------------------------------Glasgow Room Page--------------------------------------------------------------------------------*/
+
+.rectangle5{
+  position: absolute;
+  width: 803px;
+  height: 83px;
+  left: 20px;
+  right: 1097px;
+  top: 104px;
+  bottom: 983px;
+  background: rgb(53, 53, 53);
+}
+
+.glas-room-p-heading{
+  color: #FFD700;
+  position: absolute;
+  width: 569px;
+  height: 30px;
+  left: 300px;
+  right: 1225px;
+  top: -10px;
+  bottom: 1009px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.glas-map{
+  position: absolute;
+  width: 807px;
+  height: 557px;
+  left: 20px;
+  right: 1093px;
+  top: 199px;
+  bottom: 3244px;
+}
+
+.gls-rmp-pic{
+  position: absolute;
+  width: 533px;
+  height: 316px;
+  left: 842px;
+  right: 545px;
+  top: 104px;
+  bottom: 3580px;
+}
+
+.gls-rmp1-pic{
+  position: absolute;
+  width: 511px;
+  height: 316px;
+  left: 1394px;
+  right: 15px;
+  top: 104px;
+  bottom: 3580px;
+}
+
+.gls-rmp2-pic{
+  position: absolute;
+  width: 627px;
+  height: 325px;
+  left: 842px;
+  right: 451px;
+  top: 431px;
+  bottom: 3244px;
+}
+
+.gls-rmp3-pic{
+  position: absolute;
+  width: 417px;
+  height: 325px;
+  left: 1488px;
+  right: 15px;
+  top: 431px;
+  bottom: 3244px;
+}
+
+.rectangle6{
+  position: absolute;
+  width: 417px;
+  height: 325px;
+  left: 1487px;
+  right: 16px;
+  top: 431px;
+  bottom: 3244px;
+  background: rgba(217, 217, 217, 0.7);
+}
+
+.more-photos{
+  position: absolute;
+  width: 333px;
+  height: 132px;
+  left: 135px;
+  right: 58px;
+  top: 60px;
+  bottom: 3340px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(0, 0, 0);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.explan-gls-room{
+  position: absolute;
+  width: 1770px;
+  height: 355px;
+  left: 21px;
+  right: 129px;
+  top: 790px;
+  bottom: 2855px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+/*-------------------------------------------------------Part about atractions and Fasilities -----------------------------------------------------------------------------------------*/
+
+.prop-gls{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 15px;
+  right: 1389px;
+  top: 1145px;
+  bottom: 2781px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(125, 101, 93);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.nearb-gls{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 15px;
+  right: 1383px;
+  top: 1200px;
+  bottom: 2696px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;  
+}
+
+.nearb-gls-txt{
+  position: absolute;
+  width: 538px;
+  height: 443px;
+  left: -15px;
+  right: 1362px;
+  top: 1205px;
+  bottom: 2253px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.cafes-gls{
+  position: absolute;
+  width: 435px;
+  height: 76px;
+  left: 20px;
+  right: 1465px;
+  top: 1550px;
+  bottom: 2163px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.cafes-gls-txt{
+  position: absolute;
+  width: 536.14px;
+  height: 140.49px;
+  left: -15px;
+  right: 1364.86px;
+  top: 1600.31px;
+  bottom: 2036.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.attarction-gls{
+  position: absolute;
+  width: 689px;
+  height: 74px;
+  left: 594.36px;
+  right: 636.64px;
+  top: 1200px;
+  bottom: 2696px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.attarction-gls-txt{
+  position: absolute;
+  width: 687.62px;
+  height: 445.59px;
+  left: 557px;
+  right: 639.38px;
+  top: 1202.67px;
+  bottom: 2248.74px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.natural-gls{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 593px;
+  right: 1000px;
+  top: 1552px;
+  bottom: 2162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.natural-gls-txt{
+  position: absolute;
+  width: 412.77px;
+  height: 37.73px;
+  left: 557px;
+  right: 913.23px;
+  top: 1630.83px;
+  bottom: 2131.45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.ski-gls{
+  position: absolute;
+  width: 198px;
+  height: 63px;
+  left: 1318px;
+  right: 404px;
+  top: 1210px;
+  bottom: 2707px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.ski-gls-txt{
+  position: absolute;
+  width: 619.07px;
+  height: 151.58px;
+  left: 1284px;
+  right: -16.07px;
+  top: 1250.83px;
+  bottom: 2558.59px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.publ-trans-gls{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 1317px;
+  right: 276px;
+  top: 1356px;
+  bottom: 2468px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.publ-trans-gls-txt{
+  position: absolute;
+  width: 423.86px;
+  height: 185.8px;
+  left: 1283px;
+  right: 178.14px;
+  top: 1401.83px;
+  bottom: 2282.38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.near-airport-gls{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 1319px;
+  right: 277px;
+  top: 1532px;
+  bottom: 2162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.near-airport-gls-txt{
+  position: absolute;
+  width: 592.15px;
+  height: 138.84px;
+  left: 1287px;
+  right: 10.85px;
+  top: 1586.83px;
+  bottom: 2040.34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+
+
+/*---------------------------------------------------Glasgow room album---------------------------------------------------------------------------------------------------*/
+
+.button-close-all{
+  position: absolute;
+  width: 429px;
+  height: 83px;
+  left: 1461px;
+  right: 30px;
+  top: 27px;
+  bottom: 3890px;
+  background: rgb(53, 53, 53);
+}
+
+.txt-close-all{
+  position: absolute;
+  width: 355px;
+  height: 73px;
+  left: 150px;
+  right: 66px;
+  top: -30px;
+  bottom: 975px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(255, 215, 0);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.gls-alb-1{
+  position: absolute;
+  width: 303px;
+  height: 339px;
+  left: 422px;
+  right: 1195px;
+  top: 2064px;
+  bottom: 1597px;
+}
+
+.gls-alb-2{
+  position: absolute;
+  width: 562px;
+  height: 376px;
+  left: 1330px;
+  right: 28px;
+  top: 1428px;
+  bottom: 2196px;
+}
+
+.gls-alb-3{
+  position: absolute;
+  width: 388px;
+  height: 582px;
+  left: 1079px;
+  right: 453px;
+  top: 1821px;
+  bottom: 1597px;
+}
+
+.gls-alb-4{
+  position: absolute;
+  width: 449px;
+  height: 305px;
+  left: 30px;
+  right: 1441px;
+  top: 26px;
+  bottom: 749px;
+}
+
+.gls-alb-5{
+  position: absolute;
+  width: 431px;
+  height: 305px;
+  left: 1461px;
+  right: 28px;
+  top: 132px;
+  bottom: 3563px;
+}
+
+.gls-alb-6{
+  position: absolute;
+  width: 540px;
+  height: 442px;
+  left: 896px;
+  right: 484px;
+  top: 26px;
+  bottom: 3532px;
+}
+
+.gls-alb-7{
+  position: absolute;
+  width: 359px;
+  height: 296px;
+  left: 1533px;
+  right: 28px;
+  top: 1115px;
+  bottom: 2589px;
+}
+
+.gls-alb-8{
+  position: absolute;
+  width: 448px;
+  height: 283px;
+  left: 31px;
+  right: 1441px;
+  top: 351px;
+  bottom: 3366px;
+}
+
+.gls-alb-9{
+  position: absolute;
+  width: 402px;
+  height: 582px;
+  left: 1488px;
+  right: 30px;
+  top: 1821px;
+  bottom: 1597px;
+}
+
+.gls-alb-10{
+  position: absolute;
+  width: 608px;
+  height: 296px;
+  left: 905px;
+  right: 407px;
+  top: 1115px;
+  bottom: 2589px;
+}
+
+.gls-alb-11{
+  position: absolute;
+  width: 387px;
+  height: 608px;
+  left: 496px;
+  right: 1037px;
+  top: 26px;
+  bottom: 3366px;
+}
+
+.gls-alb-12{
+  position: absolute;
+  width: 531px;
+  height: 296px;
+  left: 905px;
+  right: 484px;
+  top: 495px;
+  bottom: 3209px;
+}
+
+.gls-alb-13{
+  position: absolute;
+  width: 426px;
+  height: 516px;
+  left: 31px;
+  right: 1463px;
+  top: 1182px;
+  bottom: 2302px;
+}
+
+.gls-alb-14{
+  position: absolute;
+  width: 852px;
+  height: 519px;
+  left: 31px;
+  right: 1037px;
+  top: 646px;
+  bottom: 2835px;
+}
+
+.gls-alb-15{
+  position: absolute;
+  width: 321px;
+  height: 582px;
+  left: 737px;
+  right: 862px;
+  top: 1821px;
+  bottom: 1597px;
+}
+
+.gls-alb-16{
+  position: absolute;
+  width: 531px;
+  height: 292px;
+  left: 905px;
+  right: 484px;
+  top: 807px;
+  bottom: 2901px;
+}
+
+.gls-alb-17{
+  position: absolute;
+  width: 694px;
+  height: 332px;
+  left: 31px;
+  right: 1195px;
+  top: 1715px;
+  bottom: 1953px;
+}
+
+.gls-alb-18{
+  position: absolute;
+  width: 434px;
+  height: 652px;
+  left: 1456px;
+  right: 30px;
+  top: 445px;
+  bottom: 2903px;
+}
+
+.gls-alb-19{
+  position: absolute;
+  width: 404px;
+  height: 516px;
+  left: 479px;
+  right: 1037px;
+  top: 1182px;
+  bottom: 2302px;
+}
+
+.gls-alb-20{
+  position: absolute;
+  width: 420px;
+  height: 376px;
+  left: 901px;
+  right: 599px;
+  top: 1428px;
+  bottom: 2196px;
+}
+
+.gls-alb-21{
+  position: absolute;
+  width: 379px;
+  height: 339px;
+  left: 31px;
+  right: 1510px;
+  top: 2064px;
+  bottom: 1597px;
+}
+
+/*---------------------------------------------------------------------Edinburgh Room Page----------------------------------------------------------------------------------------*/
+
+.edin-room-p-heading{
+  color: #FFD700;
+  position: absolute;
+  width: 569px;
+  height: 30px;
+  left: 300px;
+  right: 1225px;
+  top: -10px;
+  bottom: 1009px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.edin-map{
+  position: absolute;
+  width: 807px;
+  height: 557px;
+  left: 20px;
+  right: 1093px;
+  top: 199px;
+  bottom: 3244px;
+}
+
+.edin-r{
+  position: absolute;
+  width: 533px;
+  height: 316px;
+  left: 842px;
+  right: 545px;
+  top: 104px;
+  bottom: 3580px;
+}
+
+.edin-r-1{
+  position: absolute;
+  width: 511px;
+  height: 316px;
+  left: 1394px;
+  right: 15px;
+  top: 104px;
+  bottom: 3580px;
+}
+
+.edin-r-2{
+  position: absolute;
+  width: 627px;
+  height: 325px;
+  left: 842px;
+  right: 451px;
+  top: 431px;
+  bottom: 3244px;
+}
+
+.edin-r-3{
+  position: absolute;
+  width: 417px;
+  height: 325px;
+  left: 1488px;
+  right: 15px;
+  top: 431px;
+  bottom: 3244px;
+}
+
+.explan-edin-room{
+  position: absolute;
+  width: 1770px;
+  height: 355px;
+  left: 21px;
+  right: 129px;
+  top: 790px;
+  bottom: 2855px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.prop-edin{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 15px;
+  right: 1389px;
+  top: 1145px;
+  bottom: 2781px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(125, 101, 93);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.nearb-edin{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 15px;
+  right: 1383px;
+  top: 1200px;
+  bottom: 2696px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;  
+}
+
+.nearb-edin-txt{
+  position: absolute;
+  width: 538px;
+  height: 443px;
+  left: -15px;
+  right: 1362px;
+  top: 1205px;
+  bottom: 2253px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.cafes-edin{
+  position: absolute;
+  width: 435px;
+  height: 76px;
+  left: 20px;
+  right: 1465px;
+  top: 1550px;
+  bottom: 2163px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.cafes-edin-txt{
+  position: absolute;
+  width: 536.14px;
+  height: 140.49px;
+  left: -15px;
+  right: 1364.86px;
+  top: 1600.31px;
+  bottom: 2036.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.attarction-edin{
+  position: absolute;
+  width: 689px;
+  height: 74px;
+  left: 594.36px;
+  right: 636.64px;
+  top: 1200px;
+  bottom: 2696px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.attarction-edin-txt{
+  position: absolute;
+  width: 687.62px;
+  height: 445.59px;
+  left: 557px;
+  right: 639.38px;
+  top: 1202.67px;
+  bottom: 2248.74px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.natural-edin{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 593px;
+  right: 1000px;
+  top: 1552px;
+  bottom: 2162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.natural-edin-txt{
+  position: absolute;
+  width: 412.77px;
+  height: 37.73px;
+  left: 557px;
+  right: 913.23px;
+  top: 1630.83px;
+  bottom: 2131.45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.ski-edin{
+  position: absolute;
+  width: 198px;
+  height: 63px;
+  left: 1318px;
+  right: 404px;
+  top: 1210px;
+  bottom: 2707px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.ski-edin-txt{
+  position: absolute;
+  width: 619.07px;
+  height: 151.58px;
+  left: 1284px;
+  right: -16.07px;
+  top: 1250.83px;
+  bottom: 2558.59px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.beaches-edin{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 1317px;
+  right: 276px;
+  top: 1356px;
+  bottom: 2468px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.beaches-edin-txt{
+  position: absolute;
+  width: 592.15px;
+  height: 138.84px;
+  left: 1287px;
+  right: 10.85px;
+  top: 1422.83px;
+  bottom: 2040.34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.publ-trans-edin{
+  position: absolute;
+  width: 568px;
+  height: 58px;
+  left: 1316px;
+  right: 36px;
+  top: 1510px;
+  bottom: 2332px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.publ-trans-edin-txt{
+  position: absolute;
+  width: 562.3px;
+  height: 114.71px;
+  left: 1280px;
+  right: 41.7px;
+  top: 1550.29px;
+  bottom: 2217px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.near-airport-edin{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 1316px;
+  right: 277px;
+  top: 1622px;
+  bottom: 2162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.near-airport-edin-txt{
+  position: absolute;
+  width: 592.15px;
+  height: 138.84px;
+  left: 1280px;
+  right: 10.85px;
+  top: 1670.83px;
+  bottom: 2040.34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+/*---------------------------Edinburgh Album----------------------------*/
+.edin-alb-1{
+  position: absolute;
+  width: 620px;
+  height: 325px;
+  left: 1300px;
+  right: 0;
+  top: 2518px;
+  bottom: 1157px;
+}
+
+.edin-alb-2{
+  position: absolute;
+  width: 630px;
+  height: 410px;
+  left: 670px;
+  right: 620px;
+  top: 2384px;
+  bottom: 1206px;
+}
+
+.edin-alb-3{
+  position: absolute;
+  width: 620px;
+  height: 394px;
+  left: 1300px;
+  right: 0;
+  top: 2124px;
+  bottom: 1482px;
+}
+
+.edin-alb-4{
+  position: absolute;
+  width: 661px;
+  height: 364px;
+  left: 639px;
+  right: 620px;
+  top: 2020px;
+  bottom: 1616px;
+}
+
+.edin-alb-5{
+  position: absolute;
+  width: 630px;
+  height: 840px;
+  left: 0;
+  right: 1290px;
+  top: 1782px;
+  bottom: 1378px;
+}
+
+.edin-alb-6{
+  position: absolute;
+  width: 679px;
+  height: 482px;
+  left: 1241px;
+  right: 0;
+  top: 1642px;
+  bottom: 1876px;
+}
+
+.edin-alb-7{
+  position: absolute;
+  width: 612px;
+  height: 404px;
+  left: 629px;
+  right: 679px;
+  top: 1616px;
+  bottom: 1980px;
+}
+
+.edin-alb-8{
+  position: absolute;
+  width: 424px;
+  height: 349px;
+  left: 629px;
+  right: 867px;
+  top: 1267px;
+  bottom: 2384px;
+}
+
+.edin-alb-9{
+  position: absolute;
+  width: 630px;
+  height: 328px;
+  left: 0;
+  right: 1290px;
+  top: 32px;
+  bottom: 3640px;
+}
+
+.edin-alb-10{
+  position: absolute;
+  width: 625px;
+  height: 272px;
+  left: 8px;
+  right: 1287px;
+  top: 359px;
+  bottom: 3369px;
+}
+
+.edin-alb-11{
+  position: absolute;
+  width: 299px;
+  height: 272px;
+  left: 633px;
+  right: 988px;
+  top: 32px;
+  bottom: 3696px;
+}
+
+.edin-alb-12{
+  position: absolute;
+  width: 653px;
+  height: 446px;
+  left: 0;
+  right: 1267px;
+  top: 631px;
+  bottom: 2923px;
+}
+
+.edin-alb-13{
+  position: absolute;
+  width: 459px;
+  height: 1081px;
+  left: 1461px;
+  right: 0;
+  top: 110px;
+  bottom: 2809px;
+}
+
+.edin-alb-14{
+  position: absolute;
+  width: 433px;
+  height: 349px;
+  left: 630px;
+  right: 857px;
+  top: 308px;
+  bottom: 3343px;
+}
+
+.edin-alb-15{
+  position: absolute;
+  width: 424px;
+  height: 304px;
+  left: 639px;
+  right: 857px;
+  top: 657px;
+  bottom: 3039px;
+}
+
+.edin-alb-16{
+  position: absolute;
+  width: 423px;
+  height: 304px;
+  left: 630px;
+  right: 867px;
+  top: 961px;
+  bottom: 2735px;
+}
+
+.edin-alb-17{
+  position: absolute;
+  width: 248px;
+  height: 347px;
+  left: 382px;
+  right: 1290px;
+  top: 1070px;
+  bottom: 2583px;
+}
+
+.edin-alb-18{
+  position: absolute;
+  width: 245px;
+  height: 281px;
+  left: 1241px;
+  right: 434px;
+  top: 27px;
+  bottom: 3692px;
+}
+
+.edin-alb-19{
+  position: absolute;
+  width: 299px;
+  height: 276px;
+  left: 929px;
+  right: 692px;
+  top: 32px;
+  bottom: 3692px;
+}
+
+.edin-alb-20{
+  position: absolute;
+  width: 408px;
+  height: 883px;
+  left: 1053px;
+  right: 459px;
+  top: 308px;
+  bottom: 2809px;
+}
+
+.edin-alb-21{
+  position: absolute;
+  width: 867px;
+  height: 451px;
+  left: 1053px;
+  right: 0;
+  top: 1191px;
+  bottom: 2358px;
+}
+
+.edin-alb-22{
+  position: absolute;
+  width: 668px;
+  height: 426px;
+  left: -38px;
+  right: 1290px;
+  top: 1397px;
+  bottom: 2177px;
+}
+
+.edin-alb-23{
+  position: absolute;
+  width: 382px;
+  height: 304px;
+  left: 0;
+  right: 1538px;
+  top: 1093px;
+  bottom: 2603px;
+}
+
+.edin-alb-24{
+  position: absolute;
+  width: 1250px;
+  height: 434px;
+  left: 670px;
+  right: 0;
+  top: 2794px;
+  bottom: 772px;
+}
+
+.edin-alb-25{
+  position: absolute;
+  width: 670px;
+  height: 606px;
+  left: 0;
+  right: 1250px;
+  top: 2622px;
+  bottom: 772px;
+}
+
+/*-------------------Aberdeen room------------------------------------*/
+
+.aberdeen-room-p-heading{
+  color: #FFD700;
+  position: absolute;
+  width: 569px;
+  height: 30px;
+  left: 300px;
+  right: 1225px;
+  top: -10px;
+  bottom: 1009px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.aberdeen-map{
+  position: absolute;
+  width: 807px;
+  height: 557px;
+  left: 20px;
+  right: 1093px;
+  top: 199px;
+  bottom: 3244px;
+}
+
+.aberdeen-r{
+  position: absolute;
+  width: 533px;
+  height: 316px;
+  left: 842px;
+  right: 545px;
+  top: 104px;
+  bottom: 3580px;
+}
+
+.aberdeen-r-1{
+  position: absolute;
+  width: 511px;
+  height: 316px;
+  left: 1394px;
+  right: 15px;
+  top: 104px;
+  bottom: 3580px;
+}
+
+.aberdeen-r-2{
+  position: absolute;
+  width: 627px;
+  height: 325px;
+  left: 842px;
+  right: 451px;
+  top: 431px;
+  bottom: 3244px;
+}
+
+.aberdeen-r-3{
+  position: absolute;
+  width: 417px;
+  height: 325px;
+  left: 1488px;
+  right: 15px;
+  top: 431px;
+  bottom: 3244px;
+}
+
+.explan-aberdeen-room{
+  position: absolute;
+  width: 1770px;
+  height: 355px;
+  left: 21px;
+  right: 129px;
+  top: 790px;
+  bottom: 2855px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.prop-aberdeen{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 15px;
+  right: 1389px;
+  top: 1165px;
+  bottom: 2781px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(125, 101, 93);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.nearb-aberdeen{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 15px;
+  right: 1383px;
+  top: 1210px;
+  bottom: 2696px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;  
+}
+
+.nearb-aberdeen-txt{
+  position: absolute;
+  width: 538px;
+  height: 443px;
+  left: -15px;
+  right: 1362px;
+  top: 1205px;
+  bottom: 2253px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.cafes-aberdeen{
+  position: absolute;
+  width: 435px;
+  height: 76px;
+  left: 20px;
+  right: 1465px;
+  top: 1550px;
+  bottom: 2163px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.cafes-aberdeen-txt{
+  position: absolute;
+  width: 536.14px;
+  height: 140.49px;
+  left: -15px;
+  right: 1364.86px;
+  top: 1600.31px;
+  bottom: 2036.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.attarction-aberdeen{
+  position: absolute;
+  width: 689px;
+  height: 74px;
+  left: 594.36px;
+  right: 636.64px;
+  top: 1200px;
+  bottom: 2696px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.attarction-aberdeen-txt{
+  position: absolute;
+  width: 687.62px;
+  height: 445.59px;
+  left: 557px;
+  right: 639.38px;
+  top: 1130px;
+  bottom: 2248.74px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.natural-aberdeen{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 593px;
+  right: 1000px;
+  top: 1400px;
+  bottom: 2162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.natural-aberdeen-txt{
+  position: absolute;
+  width: 412.77px;
+  height: 37.73px;
+  left: 557px;
+  right: 913.23px;
+  top: 1475px;
+  bottom: 2131.45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.ski-aberdeen{
+  position: absolute;
+  width: 198px;
+  height: 63px;
+  left: 1318px;
+  right: 404px;
+  top: 1210px;
+  bottom: 2707px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.ski-aberdeen-txt{
+  position: absolute;
+  width: 619.07px;
+  height: 151.58px;
+  left: 1284px;
+  right: -16.07px;
+  top: 1215px;
+  bottom: 2558.59px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.beaches-aberdeen{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 1317px;
+  right: 276px;
+  top: 1320px;
+  bottom: 2468px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.beaches-aberdeen-txt{
+  position: absolute;
+  width: 592.15px;
+  height: 138.84px;
+  left: 1287px;
+  right: 10.85px;
+  top: 1360px;
+  bottom: 2040.34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.transport-aberdeen{
+  position: absolute;
+  width: 568px;
+  height: 58px;
+  left: 1316px;
+  right: 36px;
+  top: 1440px;
+  bottom: 2332px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.trans-aberdeen-txt{
+  position: absolute;
+  width: 562.3px;
+  height: 114.71px;
+  left: 1280px;
+  right: 41.7px;
+  top: 1475px;
+  bottom: 2217px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.airport-aberdeen{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 1316px;
+  right: 277px;
+  top: 1550px;
+  bottom: 2162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.airport-aberdeen-txt{
+  position: absolute;
+  width: 592.15px;
+  height: 138.84px;
+  left: 1280px;
+  right: 10.85px;
+  top: 1595px;
+  bottom: 2040.34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+/*----------------------------------------------Aberdeen album----------------------------------------------------*/
+
+.aberdeen-alb-1{
+  position: absolute;
+  width: 1311px;
+  height: 788px;
+  left: 588px;
+  right: 21px;
+  top: 667px;
+  bottom: 2545px;
+}
+
+.aberdeen-alb-2{
+  position: absolute;
+  width: 429px;
+  height: 573px;
+  left: 1461px;
+  right: 30px;
+  top: 110px;
+  bottom: 3317px;
+}
+
+.aberdeen-alb-4{
+  position: absolute;
+  width: 1345px;
+  height: 677px;
+  left: 575px;
+  right: 0;
+  top: 1424px;
+  bottom: 1899px;
+}
+
+.aberdeen-alb-5{
+  position: absolute;
+  width: 702px;
+  height: 768px;
+  left: -64px;
+  right: 1282px;
+  top: 1536px;
+  bottom: 1696px;
+}
+
+.aberdeen-alb-6{
+  position: absolute;
+  width: 1920px;
+  height: 709px;
+  left: 0;
+  right: 0;
+  top: 2101px;
+  bottom: 1190px;
+}
+
+.aberdeen-alb-7{
+  position: absolute;
+  width: 575px;
+  height: 768px;
+  left: 0;
+  right: 1345px;
+  top: 0;
+  bottom: 312px;
+}
+
+.aberdeen-alb-8{
+  position: absolute;
+  width: 886px;
+  height: 683px;
+  left: 575px;
+  right: 459px;
+  top: 0;
+  bottom: 397px;
+}
+
+.aberdeen-alb-9{
+  position: absolute;
+  width: 576px;
+  height: 768px;
+  left: -1px;
+  right: 1345px;
+  top: 768px;
+  bottom: 2464px;
+}
+
+/*-----------------------------------------Dundee room----------------------------------------------------------------------------------*/
+
+.dundee-room-p-heading{
+  color: #FFD700;
+  position: absolute;
+  width: 569px;
+  height: 30px;
+  left: 300px;
+  right: 1225px;
+  top: -10px;
+  bottom: 1009px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.dundee-map{
+  position: absolute;
+  width: 807px;
+  height: 557px;
+  left: 20px;
+  right: 1093px;
+  top: 199px;
+  bottom: 3244px;
+}
+
+.dundee-r{
+  position: absolute;
+  width: 533px;
+  height: 316px;
+  left: 842px;
+  right: 545px;
+  top: 104px;
+  bottom: 3580px;
+}
+
+.dundee-r-1{
+  position: absolute;
+  width: 511px;
+  height: 316px;
+  left: 1394px;
+  right: 15px;
+  top: 104px;
+  bottom: 3580px;
+}
+
+.dundee-r-2{
+  position: absolute;
+  width: 627px;
+  height: 325px;
+  left: 842px;
+  right: 451px;
+  top: 431px;
+  bottom: 3244px;
+}
+
+.dundee-r-3{
+  position: absolute;
+  width: 417px;
+  height: 325px;
+  left: 1488px;
+  right: 15px;
+  top: 431px;
+  bottom: 3244px;
+}
+
+.explan-dundee-room{
+  position: absolute;
+  width: 1770px;
+  height: 355px;
+  left: 21px;
+  right: 129px;
+  top: 790px;
+  bottom: 2855px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.prop-dundee{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 15px;
+  right: 1389px;
+  top: 1165px;
+  bottom: 2781px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(125, 101, 93);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.nearb-dundee{
+  position: absolute;
+  width: 516px;
+  height: 74px;
+  left: 15px;
+  right: 1383px;
+  top: 1210px;
+  bottom: 2696px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;  
+}
+
+.nearb-dundee-txt{
+  position: absolute;
+  width: 538px;
+  height: 443px;
+  left: -15px;
+  right: 1362px;
+  top: 1205px;
+  bottom: 2253px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.cafes-dundee{
+  position: absolute;
+  width: 435px;
+  height: 76px;
+  left: 20px;
+  right: 1465px;
+  top: 1550px;
+  bottom: 2163px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.cafes-dundee-txt{
+  position: absolute;
+  width: 536.14px;
+  height: 140.49px;
+  left: -15px;
+  right: 1364.86px;
+  top: 1600.31px;
+  bottom: 2036.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.attarction-dundee{
+  position: absolute;
+  width: 689px;
+  height: 74px;
+  left: 594.36px;
+  right: 636.64px;
+  top: 1200px;
+  bottom: 2696px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.attarction-dundee-txt{
+  position: absolute;
+  width: 687.62px;
+  height: 445.59px;
+  left: 557px;
+  right: 639.38px;
+  top: 1130px;
+  bottom: 2248.74px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.natural-dundee{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 593px;
+  right: 1000px;
+  top: 1400px;
+  bottom: 2162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.natural-dundee-txt{
+  position: absolute;
+  width: 412.77px;
+  height: 37.73px;
+  left: 557px;
+  right: 913.23px;
+  top: 1475px;
+  bottom: 2131.45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.ski-dundee{
+  position: absolute;
+  width: 198px;
+  height: 63px;
+  left: 1318px;
+  right: 404px;
+  top: 1200px;
+  bottom: 2707px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.ski-dundee-txt{
+  position: absolute;
+  width: 619.07px;
+  height: 151.58px;
+  left: 1284px;
+  right: -16.07px;
+  top: 1215px;
+  bottom: 2558.59px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.beaches-dundee{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 1317px;
+  right: 276px;
+  top: 1320px;
+  bottom: 2468px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.beaches-dundee-txt{
+  position: absolute;
+  width: 592.15px;
+  height: 138.84px;
+  left: 1287px;
+  right: 10.85px;
+  top: 1360px;
+  bottom: 2040.34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.transport-dundee{
+  position: absolute;
+  width: 568px;
+  height: 58px;
+  left: 1316px;
+  right: 36px;
+  top: 1440px;
+  bottom: 2332px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.trans-dundee-txt{
+  position: absolute;
+  width: 562.3px;
+  height: 114.71px;
+  left: 1280px;
+  right: 41.7px;
+  top: 1475px;
+  bottom: 2217px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.airport-dundee{
+  position: absolute;
+  width: 327px;
+  height: 76px;
+  left: 1316px;
+  right: 277px;
+  top: 1550px;
+  bottom: 2162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.airport-dundee-txt{
+  position: absolute;
+  width: 592.15px;
+  height: 138.84px;
+  left: 1280px;
+  right: 10.85px;
+  top: 1595px;
+  bottom: 2040.34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(153, 153, 153);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.dundee-alb-1{
+  position: absolute;
+  width: 465px;
+  height: 413px;
+  left: 0;
+  right: 1455px;
+  top: 0;
+  bottom: 3587px;
+}
+
+.dundee-alb-2{
+  position: absolute;
+  width: 322px;
+  height: 557px;
+  left: 465px;
+  right: 1133px;
+  top: 0;
+  bottom: 3443px;
+}
+
+.dundee-alb-3{
+  position: absolute;
+  width: 938px;
+  height: 535px;
+  left: 500px;
+  right: 495px;
+  top: 14px;
+  bottom: 3451px;
+}
+
+.dundee-alb-4{
+  position: absolute;
+  width: 465px;
+  height: 405px;
+  left: 1425px;
+  right: 30px;
+  top: 153px;
+  bottom: 3362px;
+}
+
+.dundee-alb-5{
+  position: absolute;
+  width: 1137px;
+  height: 673px;
+  left: 0;
+  right: 783px;
+  top: 413px;
+  bottom: 2914px;
+}
+
+.dundee-alb-6{
+  position: absolute;
+  width: 362px;
+  height: 600px;
+  left: 1137px;
+  right: 421px;
+  top: 557px;
+  bottom: 2843px;
+}
+
+.dundee-alb-7{
+  position: absolute;
+  width: 397px;
+  height: 519px;
+  left: 1493px;
+  right: 30px;
+  top: 638px;
+  bottom: 2843px;
+}
+
+.dundee-alb-8{
+  position: absolute;
+  width: 576px;
+  height: 768px;
+  left: 0;
+  right: 1344px;
+  top: 1086px;
+  bottom: 2146px;
+}
+
+.dundee-alb-9{
+  position: absolute;
+  width: 742px;
+  height: 600px;
+  left: 576px;
+  right: 602px;
+  top: 1086px;
+  bottom: 2314px;
+}
+
+.question-form{
+  position: absolute;
+  width: 398px;
+  height: 81px;
+  left: 95px;
+  right: 1521px;
+  top: 81px;
+  bottom: 1008px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(255, 215, 0);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.sity-stay{
+  position: absolute;
+  width: 580px;
+  height: 42px;
+  left: 89px;
+  right: 1251px;
+  top: 155px;
+  bottom: 973px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.select-position{
+  position: absolute;
+  width: 157px;
+  height: 58px;
+  left: 92px;
+  right: 1671px;
+  top: 197px;
+  bottom: 915px;
+}
+
+.data-mess{
+  position: absolute;
+  width: 960px;
+  height: 42px;
+  left: 90px;
+  right: 870px;
+  top: 274px;
+  bottom: 854px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.message1{
+  position: absolute;
+  width: 582px;
+  height: 33px;
+  left: 88px;
+  right: 1250px;
+  top: 316px;
+  bottom: 821px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.data-mess-1{
+  position: absolute;
+  width: 960px;
+  height: 42px;
+  left: 95px;
+  right: 870px;
+  top: 384px;
+  bottom: 744px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.message2{
+  position: absolute;
+  width: 582px;
+  height: 33px;
+  left: 88px;
+  right: 1250px;
+  top: 426px;
+  bottom: 711px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.data-mess-2{
+  position: absolute;
+  width: 960px;
+  height: 42px;
+  left: 92px;
+  right: 868px;
+  top: 494px;
+  bottom: 634px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(204, 204, 204);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: left;
+}
+
+.message3{
+  position: absolute;
+  width: 582px;
+  height: 33px;
+  left: 90px;
+  right: 1248px;
+  top: 536px;
+  bottom: 601px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.submit{
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 95px;
+  right: 1521px;
+  top: 600px;
+  bottom: 548px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+footer{
+  padding: 3px;
+  width: 1920px;
+  height: 81px;
+  background-color: #222222;
+}
+
+.logo-footer{
+  position: absolute;
+  width: 200px;
+  height: 81px;
+  left: 10px;
+  right: 1720px;
+  top: 1090px;
+  bottom: 8px;
+}
+
+.foot-text-1{
+  position: absolute;
+  width: 386px;
+  height: 58px;
+  left: 249px;
+  right: 1285px;
+  top: 1094px;
+  bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(255, 215, 0);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.foot-mail{
+  position: absolute;
+  width: 635px;
+  height: 81px;
+  left: 626px;
+  right: 659px;
+  top: 1081px;
+  bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(255, 215, 0);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.foot-pay{
+  position: absolute;
+  width: 261px;
+  height: 63px;
+  left: 1296px;
+  right: 363px;
+  top: 1033px;
+  bottom: 74px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(255, 215, 0);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.foot-pay-pic{
+  position: absolute;
+  width: 273px;
+  height: 63px;
+  left: 1250px;
+  right: 372px;
+  top: 1091px;
+  bottom: 16px;
+}
+
+.social-media-pic-inst{
+  position: absolute;
+  width: 50px;
+  height: 43.75px;
+  left: 1740px;
+  right: 0px;
+  top: 1100px;
+  bottom: 16px;
+}
+
+.social-media-pic-fb{
+  position: absolute;
+  width: 50px;
+  height: 49.81px;
+  left: 1600px;
+  right: 0px;
+  top: 1100px;
+  bottom: 16px;
+}
+
+.social-media-pic-tw{
+  position: absolute;
+  width: 50px;
+  height: 40.62px;
+  left: 1670px;
+  right: 0px;
+  top: 1100px;
+  bottom: 16px;
+}
+
+.social-media{
+  position: absolute;
+  width: 314px;
+  height: 81px;
+  left: 1626px;
+  right: 0;
+  top: 1000px;
+  bottom: 65px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(255, 215, 0);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
+
+.pay-txt{
+  position: absolute;
+  width: 261px;
+  height: 63px;
+  left: 1260px;
+  right: 363px;
+  top: 1000px;
+  bottom: 74px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  color: rgb(255, 215, 0);
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: -1.5%;
+  text-align: center;
+}
